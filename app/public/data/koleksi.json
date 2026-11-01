@@ -1,5 +1,5 @@
 [
-  { "id": "1", "judul": "Pulau Pahawang ", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 100000, "jamBuka": "08.00-17.00" },
+  { "id": "1", "judul": "Pulau Pahawang", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 100000, "jamBuka": "08.00-17.00" },
   { "id": "2", "judul": "Taman Nasional Way Kambas", "kategori": "alam", "kabupaten": "Lampung Timur", "hargaTiket": 50000, "jamBuka": "08.00-16.00" },
   { "id": "3", "judul": "Pantai Sari Ringgung", "kategori": "alam", "kabupaten": "Lampung Tengah", "hargaTiket": 25000, "jamBuka": "07.00-18.00" },
   { "id": "4", "judul": "Menara Siger", "kategori": "buatan", "kabupaten": "Lampung Selatan", "hargaTiket": 20000, "jamBuka": "09.00-17.00" },
@@ -9,4 +9,4 @@
   { "id": "8", "judul": "Pantai Rio by The Beach", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 50000, "jamBuka": "08.00-18.00" },
   { "id": "9", "judul": "Pulau Tegal Mas Resort", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 100000, "jamBuka": "08.00-18.00" },
   { "id": "10", "judul": "Museum Lampung Ruwa Jurai", "kategori": "budaya", "kabupaten": "Bandar Lampung", "hargaTiket": 10000, "jamBuka": "08.00-16.00" }
-]
+] 

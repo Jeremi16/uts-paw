@@ -1,5 +1,4 @@
 import { Route, Routes } from 'react-router-dom'
-import mahasiswa from '../mahasiswa.json'
 import { KoleksiProvider } from './context/KoleksiProvider.jsx'
 import Layout from './components/Layout.jsx'
 import Beranda from './pages/Beranda.jsx'
