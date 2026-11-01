@@ -1,5 +1,6 @@
 import mahasiswa from '../src/mahasiswa.json'
 
+
 export default function Beranda() {
   return (
     <section>
