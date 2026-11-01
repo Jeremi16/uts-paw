@@ -1,4 +1,4 @@
-import mahasiswa from '../src/mahasiswa.json'
+import mahasiswa from '../../mahasiswa.json'
 
 
 export default function Beranda() {

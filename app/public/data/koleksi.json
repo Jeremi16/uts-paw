@@ -1,8 +1,12 @@
 [
-  { "id": "1", "judul": "pantai ", "kategori": "wisata", "tenggat": "2026-10-28", "prioritas": "tinggi" },
-  { "id": "2", "judul": "gunung", "kategori": "Organisasi", "tenggat": "2026-10-29", "prioritas": "sedang" },
-  { "id": "3", "judul": "bukit", "kategori": "Kuliah", "tenggat": "2026-10-30", "prioritas": "tinggi" },
-  { "id": "4", "judul": "", "kategori": "Lomba", "tenggat": "2026-11-02", "prioritas": "sedang" },
-  { "id": "5", "judul": "Notulen kegiatan", "kategori": "Organisasi", "tenggat": "2026-11-03", "prioritas": "rendah" },
-  { "id": "6", "judul": "Ringkasan materi React", "kategori": "Kuliah", "tenggat": "2026-11-05", "prioritas": "sedang" }
+  { "id": "1", "judul": "Pulau Pahawang ", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 100000, "jamBuka": "08.00-17.00" },
+  { "id": "2", "judul": "Taman Nasional Way Kambas", "kategori": "alam", "kabupaten": "Lampung Timur", "hargaTiket": 50000, "jamBuka": "08.00-16.00" },
+  { "id": "3", "judul": "Pantai Sari Ringgung", "kategori": "alam", "kabupaten": "Lampung Tengah", "hargaTiket": 25000, "jamBuka": "07.00-18.00" },
+  { "id": "4", "judul": "Menara Siger", "kategori": "buatan", "kabupaten": "Lampung Selatan", "hargaTiket": 20000, "jamBuka": "09.00-17.00" },
+  { "id": "5", "judul": "Teluk Kiluan", "kategori": "alam", "kabupaten": "Lampung Barat", "hargaTiket": 150000, "jamBuka": "06.00-17.00" },
+  { "id": "6", "judul": "Taman Wisata Lembah Hijau", "kategori": "buatan", "kabupaten": "Bandar Lampung", "hargaTiket": 30000, "jamBuka": "08.00-18.00" },
+  { "id": "7", "judul": "Bukit Aslan", "kategori": "alam", "kabupaten": "Lampung Barat", "hargaTiket": 20000, "jamBuka": "07.00-17.00" },
+  { "id": "8", "judul": "Pantai Rio by The Beach", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 50000, "jamBuka": "08.00-18.00" },
+  { "id": "9", "judul": "Pulau Tegal Mas Resort", "kategori": "alam", "kabupaten": "Lampung Selatan", "hargaTiket": 100000, "jamBuka": "08.00-18.00" },
+  { "id": "10", "judul": "Museum Lampung Ruwa Jurai", "kategori": "budaya", "kabupaten": "Bandar Lampung", "hargaTiket": 10000, "jamBuka": "08.00-16.00" }
 ]
