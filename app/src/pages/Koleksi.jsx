@@ -2,6 +2,7 @@ import { useState } from 'react'
 import useKoleksi from '../hooks/useKoleksi.js'
 import KotakPencarian from '../components/KotakPencarian.jsx'
 import KartuItem from '../components/KartuItem.jsx'
+import './Koleksi.css'
 
 export default function Koleksi() {
   const { items, loading, error } = useKoleksi()
@@ -20,7 +21,7 @@ export default function Koleksi() {
 
   return (
     <section>
-      <h1>Koleksi</h1>
+      <h1 id="judul-koleksi">Koleksi</h1>
       <div className="alat-koleksi">
         <KotakPencarian nilai={cari} onUbah={setCari} />
         <select aria-label="Kategori" value={kategori} onChange={(e) => setKategori(e.target.value)}>
@@ -34,7 +35,7 @@ export default function Koleksi() {
       ) : (
         <div className="daftar-kartu">
           {tampil.map((item) => (
-            <KartuItem key={item.id} item={item} />
+            <KartuItem key={item.id} item={item} className="kartu" />
           ))}
         </div>
       )}

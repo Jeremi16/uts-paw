@@ -11,7 +11,7 @@ const MENU = [
 
 export function Navbar() {
     return (
-        <nav className="menu">
+        <nav id="menu">
           {MENU.map(({ ke, label }) => (
             <NavLink key={ke} to={ke} end={ke === '/'}>
               {label}
